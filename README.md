@@ -6,8 +6,8 @@
 
 **Code · AI · Tools · Tiny Companions**
 
-写代码，也做工具。喜欢把 AI、工程和一点奇怪但实用的想法，变成真正能跑起来的东西。  
-偶尔也会给严肃的软件塞一点可爱元素。 ฅ^•ﻌ•^ฅ
+做软件，也做一些自己真正会用的工具。  
+关注 AI、开发者工具与桌面应用。
 
 [![Blog](https://img.shields.io/badge/亡灵的小站-wangling.hauchet.cn-8b5cf6?style=flat-square&logo=halo&logoColor=white)](https://wangling.hauchet.cn)
 [![Hub2Cloud](https://img.shields.io/badge/云枢科技-hub2cloud.com-0ea5e9?style=flat-square&logo=cloudflare&logoColor=white)](https://www.hub2cloud.com)
