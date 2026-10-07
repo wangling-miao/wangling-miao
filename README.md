@@ -92,5 +92,5 @@
 
 <div align="center">
   <sub>Build useful things. Keep a little whimsy. ✦</sub><br>
-  <sub>ฅ^•ﻌ•^ฅ</sub>
+  <sub>关注 wangling 喵，关注 wangling 谢谢喵 ฅ^•ﻌ•^ฅ</sub>
 </div>
